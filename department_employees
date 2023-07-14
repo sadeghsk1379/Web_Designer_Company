@@ -1,0 +1,10 @@
+class Department_Employees:
+    def __init__(self,Department,Income,Recruitment_Time,CV,Job) -> None:
+        
+        self.Department=Department
+        self.Income=Income
+        self.Recruitment_Time=Recruitment_Time
+        self.CV=CV
+        self.Job=Job
+        
+        pass
